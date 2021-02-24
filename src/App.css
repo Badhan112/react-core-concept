@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.User{
+  background-color: aliceblue;
+  color: #282c34;
+  padding: 10px;
+}
